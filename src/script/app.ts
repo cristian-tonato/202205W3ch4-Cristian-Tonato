@@ -1,5 +1,5 @@
-import { Film } from '../components/Noview.js';
-import { View } from '../components/view.js';
+import { Film } from '../components/unwatched.js';
+import { View } from '../components/watched.js';
 
 function app() {
     new Film('.series-list');
